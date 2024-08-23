@@ -1,0 +1,7 @@
+# .cody/ignore
+
+# Ignore a specific file
+secret.json
+
+# Ignore a folder
+lib/shared/
